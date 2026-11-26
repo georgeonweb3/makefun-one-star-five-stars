@@ -1,0 +1,10 @@
+Build the make.fun entry for "One Star, Five Stars for the Food" (u-po-pu-one-star-five-stars-for-the-food-f9166ee7).
+
+Write main.py (Python 3.13, repo root) that deterministically writes one sentence
+to /output/entry.txt: a one-star review of planet Earth written by an alien tourist
+that still slips in a real compliment about the food. The sentence must be 1-200
+characters, one sentence, deadpan alien voice, a grievance worth one star, and a
+food compliment that lands as the joke's turn. No network, no randomness.
+
+Then add README.md (from the requirements template), LICENSE (MIT), .gitignore,
+verify the entry locally, and commit.
